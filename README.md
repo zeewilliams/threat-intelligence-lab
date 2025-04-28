@@ -94,8 +94,6 @@ This practice reinforces blue team documentation and escalation workflows.
 | AbuseIPDB Threat Score       | ![null](Abvse-cover.png)  |
 | MITRE ATT&CK Mapping         | ![null](Mitre-cover.webp)      |
 
-> Add screenshots above after uploading them to your `images/` folder.
-
 ---
 
 ## ✅ Key Takeaways
