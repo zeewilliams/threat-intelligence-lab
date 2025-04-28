@@ -1,6 +1,6 @@
 # 🕵️‍♂️ THM Threat Intelligence Tools – Blue Team Lab
 
-![null](images/ti-lab-cover.png) <!-- Replace this with a cover image -->
+![null](THM-Cover.webp) <!-- Replace this with a cover image -->
 
 ---
 
