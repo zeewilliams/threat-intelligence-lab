@@ -92,7 +92,7 @@ This practice reinforces blue team documentation and escalation workflows.
 |------------------------------|-----------------------------------|
 | IOC Lookup in VirusTotal     | ![null](images/ti-virustotal.png) |
 | AbuseIPDB Threat Score       | ![null](images/ti-abuseipdb.png)  |
-| MITRE ATT&CK Mapping         | ![null](images/ti-mitre.png)      |
+| MITRE ATT&CK Mapping         | ![null](Mitre-cover.webp)      |
 
 > Add screenshots above after uploading them to your `images/` folder.
 
